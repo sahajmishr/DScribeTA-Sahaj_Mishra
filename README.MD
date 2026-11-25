@@ -42,10 +42,10 @@ A full-stack web application for hospital ward staff to admit, view, search, fil
 ## Screenshots
 
 ### Desktop Dashboard & Filters
-![Desktop Dashboard](screenshots/desktop.png)
+![Desktop Dashboard](screenshots/Desktop.png)
 
 ### Admit / Edit Patient Form & Validation
-![Admit Patient Form](screenshots/Desktop.png)
+
 ![Admit Patient Form](screenshots/addPatientDesktop.png)
 
 ### Mobile Responsive View
