@@ -4,8 +4,8 @@ A full-stack web application for hospital ward staff to admit, view, search, fil
 
 ## Live Demo
 
-- **Live Application (Frontend):** [[https://YOUR_LIVE_VERCEL_URL.vercel.app](https://d-scribe-ta-sahaj-mishra.vercel.app/)](https://YOUR_LIVE_VERCEL_URL.vercel.app)
-- **Backend API Health Check:** [[https://YOUR_RENDER_BACKEND_URL.onrender.com/api/health/](https://dscribe-patient-api-jhxa.onrender.com/api/health/)](https://dscribe-patient-api-jhxa.onrender.com/api/health/)](https://YOUR_RENDER_BACKEND_URL.onrender.com/api/health/)
+- **Live Application (Frontend):** https://d-scribe-ta-sahaj-mishra.vercel.app/
+- **Backend API Health Check:** https://dscribe-patient-api-jhxa.onrender.com/api/health/)](https://dscribe-patient-api-jhxa.onrender.com/api/health/
 
 > **Note:** The backend API is hosted on Render's Free tier, so the very first request after 15 minutes of inactivity may take ~30–50 seconds while the server wakes up.
 
